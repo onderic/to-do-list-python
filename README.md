@@ -7,8 +7,8 @@ pytest
 Installation
 Clone the repository and install the dependencies:
 
-Copy code
-git clone https://github.com/user/to-do-list.git
+git clone the repo
+
 cd to-do-list
 pip install -r requirements.txt
 Usage
